@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '38919'
     url: http://www.gutenberg.org/2009/agents/38919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37562#Wrestling-and-Wrestlers-Ring--to-Which-is-Added-Notes-on-Bull-and-Badger-Baiting
 gutenberg_issued: '2011-09-29'
 gutenberg_type: Text
 identifiers:
