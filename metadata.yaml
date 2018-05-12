@@ -1,0 +1,30 @@
+_repo: Wrestling-and-Wrestlers-Ring--to-Which-is-Added-Notes-on-Bull-and-Badger-Baiting_37562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gilpin, Sidney
+    deathdate: 1892
+    gutenberg_agent_id: '38920'
+    url: http://www.gutenberg.org/2009/agents/38920
+  - agent_name: Robinson, Jacob
+    gutenberg_agent_id: '38919'
+    url: http://www.gutenberg.org/2009/agents/38919
+description: ''
+gutenberg_issued: '2011-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Wrestling'
+- !lcsh 'Wrestlers'
+title: "Wrestling and Wrestlers\r\nBiographical Sketches of Celebrated Athletes of\
+  \ the Northern Ring; to Which is Added Notes on Bull and Badger Baiting"
+url: http://www.gutenberg.org/ebooks/37562
